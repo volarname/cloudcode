@@ -5,7 +5,6 @@ set -e
 
 # build
 npm run build
-
 cd dist
 
 #echo 'www.cloudcode.sk' > CNAME
