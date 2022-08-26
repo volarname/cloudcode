@@ -8,7 +8,7 @@ npm run build
 
 cd dist
 
-echo 'www.cloudcode.sk' > CNAME
+#echo 'www.cloudcode.sk' > CNAME
 
 git init
 git checkout -b main
